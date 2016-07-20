@@ -1,7 +1,7 @@
 from ggame import App, RectangleAsset, ImageAsset, SoundAsset
 from ggame import LineStyle, Color, Sprite, Sound
 
-
+rectangle dimensions:1728 862
 
 # A ball! This is already in the ggame-tutorials repository
 ball_asset = ImageAsset("images/orb-150545_640.png")
